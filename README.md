@@ -16,7 +16,7 @@
 
 ![Home](./images/home.png)
 
-### Login Pannel
+### Login Panel
 
 ![login](./images/login.png)
 
