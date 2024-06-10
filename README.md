@@ -18,20 +18,24 @@
 
 ### Login Pannel
 
-![book](./images/login.png)
+![login](./images/login.png)
 
 ### Admin Register
 
-![my_books](./images/adminRegister.png)
+![adminRegister](./images/adminRegister.png)
 
 ### Admin Login
 
-![book](./images/adminLogin.png)
+![adminLogin](./images/adminLogin.png)
 
 ### Teacher Login
 
-![book](./images/TeacherLogin.png)
+![TeacherLogin](./images/TeacherLogin.png)
 
 ### Student Login
 
-![book](./images/StudentLogin.png)
+![StudentLogin](./images/StudentLogin.png)
+
+### Code Snap
+
+![CodeScreenShot](./images/CodeScreenShot.png)
